@@ -688,6 +688,7 @@ textarea::placeholder {
 
   .hamburger {
     display: block;
+    margin-right: auto;
   }
 
   .hamburger.active .line:nth-child(2) {
